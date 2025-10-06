@@ -1,0 +1,4 @@
+export default {
+	USER_INFO_RECEIVED: "USER_INFO_RECEIVED",
+	RESET_STATE: "RESET_STATE",
+};
